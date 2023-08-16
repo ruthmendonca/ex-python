@@ -1,4 +1,4 @@
-#Código de ordenação lista, sem utilizar > ou <, min ou max, ou os métodos sorted()/sort()#
+#Código de ordenação lista, sem utilizar > ou <, min ou max, ou os métodos sorted()/sort()
 
 Lista= [14, 25, 5, 19500, 36, 400, 99, 2, 10, 0, -1, -30]
 
